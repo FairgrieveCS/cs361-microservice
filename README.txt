@@ -1,5 +1,7 @@
 --- Counter Microservice ---
 
+3 Files: counter_service.mjs, CounterButton.js (components folder), EarnCoins.js (added a function, pages folder)
+
 This microservice implements functionality that generates coins/currency for users and
 allows them to collect the coins by clicking a button. Users can check their balance and 
 the counter value.
